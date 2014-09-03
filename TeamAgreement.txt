@@ -1,0 +1,58 @@
+
+Methods of communication:
+-skype
+-facebook
+-text
+
+
+
+Communication response time:
+-skype:reply right away if both online
+-facebook:a day
+
+
+
+Meeting attendance:
+-at least 2 mandatory meetings (tuesday if in person, virtually weekends
+
+
+
+Running meetings:
+-Ouye takes the minutes
+-Meet at Bahen if in person
+-Otherwise meetings will be via skype
+
+
+
+
+Meeting preparation:
+-Read the lecture notes, and project outline ahead of time
+-Finish assigned work by the next meeting
+
+
+
+Version Control:
+-commit necessary documents
+-log messages should be clear. 
+
+Include name of file : what you changed in the file
+
+
+
+Division of Work:
+-Each person will take a class (or part of a class), splitting up the methods to implement equally
+-Everyone will decide who does what
+
+
+
+Submitting Assignments:
+-Everyone will review the submissions, everyone will submit at the end of each day if he/she makese a change 
+
+
+Contingency Planning:
+-No one plans to drop. If someone does, we will talk to the instructor.
+-Tell us ahead of time if you're going to miss a meeting.
+
+
+-If someone is acedemically dishonest, we will tell them to stop/consult the instructor.
+

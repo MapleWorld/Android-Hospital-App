@@ -1,0 +1,110 @@
+Planning meetings: November 18, 2013 from 2:00 to 3:00 PM in computer lab.
+Current State:
+Finished discussing bugs and issues from previous phase, and assigning tasks to team member.
+
+Goal before Next Meeting:
+Fix all the java docs, methods, and naming issues from previous phase.
+
+Individual Task:
+Ou Ye is responsible for physician class.
+Da Zheng is responsible for Patient look up and java code naming Convention.
+Lindsey is responsible for Record date and time of patient and Java Docs.
+Marina is responsible for Categorize patient list and Java Docs.
+
+
+
+
+Status Meetings: Nov 20, 2013 From 10:00 to 11:00 PM on Skype
+What (s)he has accomplished since the last meeting:
+Ou Ye: Some java doc and methods in hospital Class
+Da Zheng: Some java doc and methods in hospital Class
+Lindsey: Some java doc and methods in hospital Class
+Marina: Some java doc and methods in hospital Class
+
+Plans to accomplish before the next meeting:
+Complete new crc model, fix all java doc/@param/@return tag problems, and add the physician class.
+
+Problems/Obstacles:
+Distinguish between physician and nurse user. 
+Physician Acitivity/Class Design 
+Blood Pressure systolic or diastolic
+
+
+
+
+
+Planning meetings: November 25, 2013 from 2:00 to 3:00 PM in computer lab.
+Current State:
+Completed a new set of designs and shorten the methods (TriageTwo folder).
+Finished discussing bugs and issues with current design, new design, and assigning tasks to team member.
+
+Goal before Next Meeting:
+Combine the old design and code with the new one.
+
+Individual Task:
+Ou Ye is responsible for physician class and combing code.
+Da Zheng is responsible for Patient look up and java code naming Convention.
+Lindsey is responsible for Record date and time of patient and Java Docs.
+Marina is responsible for Categorize patient list, and combing code.
+
+
+
+
+
+
+Status meetings: November 26, 2013 from 7:00 to 8:00 PM on facebook.
+What (s)he has accomplished since the last meeting:
+Ou Ye: Combined the old with the new design. (Triage with TriageTwo folder)
+Marina: Combined the old with the new design. (Triage with TriageTwo folder)
+Lindsey: Debug and resolve conflicts between new and old methods.
+Da Zheng: Test the functionalities of all the methods after combing, and resolve them if there is any.
+
+Plans to accomplish before the next meeting:
+Rest of the features require for Phase 3. 
+
+Problems/Obstacles:
+Missing variable/method between designs
+Different parameter type for variable(MasterpatientPool(Integer,Stirng) VS (String, String))
+Different format of the text when writing to file (name/age/../vital signs  VS  name#age#time@tempertaure//)
+Inheritance between classes(Health Professional
+
+
+
+
+
+
+Planning meetings: November 27, 2013 from 9:00 to 10:00 PM on facebook.
+Current State:
+Completed all features require for Phase 3.
+
+Goal before Next Meeting:
+Add java doc
+Check for naming convention
+Coding Style
+Test functionality
+Modify CRC Model
+Modify README.txt
+
+Individual Task:
+Ou Ye is responsible for Testing and debuging
+Da Zheng is responsible for Java Doc and Testing
+Lindsey is responsible for Java Doc and README.txt
+Marina is responsible for Naming Convention, and CRC Model
+
+
+
+
+
+Status meetings: November 28, 2013 from 7:00 to 8:00 PM on facebook.
+What (s)he has accomplished since the last meeting:
+Ou Ye: Testing, shorten methods and some Java doc
+Marina: Testing, coding style and some Java doc
+Lindsey: Testing, naming Convention and some Java doc
+Da Zheng: Testing, and some Java doc
+
+Plans to accomplish before the next meeting:
+Peer evaluation: Catme Evaluation
+
+Problems/Obstacles:
+Come up with good description for the methods and classes.
+
